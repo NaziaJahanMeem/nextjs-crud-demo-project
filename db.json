@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John",
+        "email": "john@gmail.com",
+        "contact": 192818291,
+        "birthDate": "04-03-2000",
+        "address": "Canada"
+      },
+      {
+        "name": "Nazia",
+        "email": "nazia@gmail.com",
+        "contact": "2899187",
+        "address": "Bangladesh",
+        "birthDate": "03-04-2000",
+        "id": 2
+      },
+      {
+        "name": "Hank",
+        "email": "hank@gmail.com",
+        "contact": "1782901",
+        "address": "Singapore",
+        "birthDate": "1998-07-08",
+        "id": 3
+      }
+    ]
+  }
